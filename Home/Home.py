@@ -7,7 +7,7 @@ st.set_page_config (
 )
 
 #image_path = '/Users/alexm/Documents/REPOS/FTC/Ciclo_6/'
-image = Image.open ('logo_delivery.png')
+#image = Image.open ('logo_delivery.png')
 
 st.sidebar.image (image, width=120)
 
