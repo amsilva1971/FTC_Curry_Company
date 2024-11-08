@@ -6,7 +6,7 @@ from PIL import Image
 #import haversine
 #from haversine import haversine
 #import plotly.express as px
-import folium
+#import folium
 from streamlit_folium import folium_static
 
 st.set_page_config (page_title='Visão empresa', page_icon='', layout='wide') 
