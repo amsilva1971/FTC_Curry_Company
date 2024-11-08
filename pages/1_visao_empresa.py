@@ -3,8 +3,8 @@ import datetime
 import pandas as pd
 import streamlit as st
 from PIL import Image
-!pip install haversine
-from haversine import haversine
+import haversine
+#from haversine import haversine
 import plotly.express as px
 import folium
 from streamlit_folium import folium_static
