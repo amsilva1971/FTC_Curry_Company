@@ -3,7 +3,7 @@ import datetime
 import pandas as pd
 import streamlit as st
 from PIL import Image
-import haversine
+#import haversine
 from haversine import haversine
 import plotly.express as px
 import folium
